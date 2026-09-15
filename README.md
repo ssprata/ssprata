@@ -7,7 +7,7 @@ I build standalone native desktop utilities, creative-workflow integrations (Pre
 ### 🧰 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,rust,cs,react,electron,tauri,vite,tailwind,html,css,git,github,bash" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cs,react,electron,tauri,vite,tailwind,html,css,git,github,bash" />
 </p>
 
 ---
