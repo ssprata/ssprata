@@ -16,7 +16,7 @@ I build standalone native desktop utilities, creative-workflow integrations (Pre
 
 * **[League Asset Vault](https://github.com/ssprata/league-asset-vault)** — Desktop asset manager for creators featuring Riot's Data Dragon CDN, on-device `waifu2x-ncnn-vulkan` neural super-resolution, and native OLE file drag-and-drop (`CF_HDROP`).
 * **Slate Video Logger** — Offline video logger built with Tauri, Rust, TypeScript, and a dedicated Premiere Pro UXP plugin.
-* **Aether Audio Engine** — Cross-platform audio streaming client and server supporting background playback, foreground service management, and persistent playlist syncing across desktop and Android (via Chaquopy).
+* **[Aether Audio Engine](https://github.com/ssprata/aether-audio-engine)** — Cross-platform audio streaming client and server supporting background playback, foreground service management, and persistent playlist syncing across desktop and Android (via Chaquopy).
 * **PureAim Website** — Web landing platform featuring scroll-driven animations, dynamic member synchronization scripts, and responsive styling.
 * **[DepthMap Maker](https://github.com/ssprata/DepthMapApp)** — High-performance 2D-to-depth map tool running Depth Anything V2 via local ONNX Runtime.
 * **[AudioLock](https://github.com/ssprata/AudioLock)** — Windows volume constraint utility with HID service integration.
